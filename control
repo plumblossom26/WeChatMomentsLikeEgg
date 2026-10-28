@@ -1,0 +1,12 @@
+Package: com.qimiao.momentslikeegg
+Name: 朋友圈点赞彩蛋
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 强开微信 8.0.80+ 朋友圈点赞彩蛋。
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate
+Priority: optional
+Author: 热心网友
+dev: 热心网友
+Maintainer: 热心网友
+Homepage: https://github.com/plumblossom26

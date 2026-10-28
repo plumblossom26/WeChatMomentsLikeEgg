@@ -1,0 +1,6 @@
+.theos/
+packages/
+.DS_Store
+*.deb
+.idea/
+.vscode/
